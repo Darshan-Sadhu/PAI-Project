@@ -4,12 +4,18 @@ Medical Cost Personal Dataset (Linear Regression)
 ---
 
  Team Member Details
-Member 1 - Darshan: 2503031240098
-Member 2 - Priyanshi: 2503031240092
-Member 3 - Sakshi: 2503031240099
-Member 4 - Kavya: 2503031240079
-Member 5 - Raj: 2503031240094
-Member 6 - Navdeep: 2503031240086
+Member 1 - Darshan: 2503031240098  
+
+Member 2 - Priyanshi: 2503031240092  
+
+Member 3 - Sakshi: 2503031240099  
+
+Member 4 - Kavya: 2503031240079  
+
+Member 5 - Raj: 2503031240094  
+
+Member 6 - Navdeep: 2503031240086  
+
 Member 7 - Gautham: 2503031240096
 
 ---
